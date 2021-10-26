@@ -14,7 +14,7 @@ alpha = 0.1
 numDesCluster = 3
 
 start = time.clock()
-data_set = np.loadtxt('E:/Kchu/Research/CURE/CURE-python/Data/3clus.txt')
+data_set = np.loadtxt('./3clus.txt')
 data = data_set[:,0:2]
 Label_true = data_set[:,2]
 print("Please wait for CURE clustering to accomplete...")

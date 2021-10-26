@@ -1,4 +1,12 @@
 # -*- coding: utf-8 -*-
+
+###########################################################################################
+# Implementation of CURE (Clustering Using Representatives) Clustering Algorithm
+# Author for codes: Chu Kun(kun_chu@outlook.com)
+# Paper: https://www.sciencedirect.com/science/article/pii/S0306437901000084
+# Reference: https://github.com/Kchu/CURE-cluster-python
+###########################################################################################
+
 import numpy as np
 import scipy.spatial.distance as distance
 import sys
