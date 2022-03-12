@@ -1,0 +1,6 @@
+jain.txt:   numRepPoints = 5;  alpha = 0;  numDesCluster = 2
+
+R15.txt:    numRepPoints = 10;  alpha = 0.9;  numDesCluster = 15
+
+aggregation:   numRepPoints = 8;  alpha = 0.62;  numDesCluster = 7
+3clus:    numRepPoints = 3;  alpha = 0.2;  numDesCluster = 3

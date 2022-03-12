@@ -2,9 +2,7 @@
 
 Python implementation of CURE (Clustering Using Representatives) clustering algorithm
 
-Open test_cure in Python environment and test according to comments.
-
-The dataset isn't included for licensure reasons, so the code is non-functional.
+Open test_cure in Python environment and test according to Comment.txt
 
 ## Experimental Demonstration
 ![figure1](https://github.com/Kchu/CURE-cluster-python/blob/master/Figure_1.png)
