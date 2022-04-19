@@ -34,7 +34,7 @@ scatterColors = ['black', 'blue', 'green', 'yellow', 'red', 'purple', 'orange', 
                  'chocolate', 'darkgreen', 'darkblue', 'azure', 'bisque']
 for i in range(data_set.shape[0]):
     color = scatterColors[Label_pre[i]]
-    plt.scatter(data_set[i, 0], data_set[i, 1], marker='o', c=color)
+    plt.scatter(data_set[i, 0], data_set[i, 1], marker='.', c=color)
 plt.text(0, 0, "clusterResult")
 plt.show()
 
